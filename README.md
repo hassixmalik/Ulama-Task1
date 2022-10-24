@@ -1,0 +1,1 @@
+Database file is attached in 'DB' folder. Import that file into PHP my admin and paste this project in 'htdocs' inside WAMPstack. Thank you
